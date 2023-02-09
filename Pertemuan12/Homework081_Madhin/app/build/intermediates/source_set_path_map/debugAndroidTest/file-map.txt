@@ -1,0 +1,7 @@
+id.ac.poliban.mi.va.sherli.homework081_sherli.test.app-androidTest-0 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\generated\res\resValues\androidTest\debug
+id.ac.poliban.mi.va.sherli.homework081_sherli.test.app-androidTest-1 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\generated\res\rs\androidTest\debug
+id.ac.poliban.mi.va.sherli.homework081_sherli.test.app-mergeDebugAndroidTestResources-2 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+id.ac.poliban.mi.va.sherli.homework081_sherli.test.app-mergeDebugAndroidTestResources-3 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+id.ac.poliban.mi.va.sherli.homework081_sherli.test.app-merged_res-4 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\intermediates\merged_res\debugAndroidTest
+id.ac.poliban.mi.va.sherli.homework081_sherli.test.app-androidTest-5 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\src\androidTest\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.test.app-androidTestDebug-6 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\src\androidTestDebug\res

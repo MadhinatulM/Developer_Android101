@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Homework081_Sherli</string>
+    <string name="cancel_me">Cancel Me!</string>
+    <string name="first_line">This is the first line</string>
+    <string name="mascot_notification">Mascot Notification</string>
+    <string name="notification_text">This is the notification text.</string>
+    <string name="notify_from_mascot">Notification from Mascot</string>
+    <string name="notify_me">Notify Me!</string>
+    <string name="second_line">This is the second line</string>
+    <string name="summary_text">This is summary text</string>
+    <string name="title">Title</string>
+    <string name="update_me">Update Me!</string>
+    <string name="update_notification">Update Notification</string>
+    <string name="youve_been_notified">You have been notified!</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_700</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

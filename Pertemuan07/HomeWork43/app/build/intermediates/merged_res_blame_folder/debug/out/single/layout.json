@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.homework43.app-mergeDebugResources-16:/layout/activity_order.xml",
+        "source": "com.example.homework43.app-main-19:/layout/activity_order.xml"
+    },
+    {
+        "merged": "com.example.homework43.app-mergeDebugResources-16:/layout/fragment_first.xml",
+        "source": "com.example.homework43.app-main-19:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.homework43.app-mergeDebugResources-16:/layout/fragment_second.xml",
+        "source": "com.example.homework43.app-main-19:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.homework43.app-mergeDebugResources-16:/layout/activity_main.xml",
+        "source": "com.example.homework43.app-main-19:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.homework43.app-mergeDebugResources-16:/layout/activity_date_picker_fragment.xml",
+        "source": "com.example.homework43.app-main-19:/layout/activity_date_picker_fragment.xml"
+    },
+    {
+        "merged": "com.example.homework43.app-mergeDebugResources-16:/layout/content_main.xml",
+        "source": "com.example.homework43.app-main-19:/layout/content_main.xml"
+    }
+]

@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "id.ac.poliban.mi.va.sherli.codingchallenge081_sherli.app-mergeDebugResources-7:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\c2aedc110d23bf89f8fa7e09d7556e70\\transformed\\appcompat-v7-28.0.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    }
+                },
+                {
+                    "source": "D:\\DTS JMP A_PELATIHAN 2022\\AndroidStudio\\CodingChallenge081_Sherli\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "456"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "979"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ACER\\.gradle\\daemon\\7.4.1\\id.ac.poliban.mi.va.sherli.codingchallenge081_sherli.app-mergeDebugResources-7:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\c2aedc110d23bf89f8fa7e09d7556e70\\transformed\\appcompat-v7-28.0.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    }
+                },
+                {
+                    "source": "D:\\DTS JMP A_PELATIHAN 2022\\AndroidStudio\\CodingChallenge081_Sherli\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "814"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1280"
+                    }
+                }
+            ]
+        }
+    ]
+}

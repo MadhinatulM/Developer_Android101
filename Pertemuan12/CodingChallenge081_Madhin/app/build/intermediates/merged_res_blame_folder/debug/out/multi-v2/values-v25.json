@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "id.ac.poliban.mi.va.sherli.codingchallenge081_sherli.app-mergeDebugResources-7:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\c2aedc110d23bf89f8fa7e09d7556e70\\transformed\\appcompat-v7-28.0.0\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "id.ac.poliban.mi.va.sherli.codingchallenge081_sherli.app-mergeDebugResources-7:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\c2aedc110d23bf89f8fa7e09d7556e70\\transformed\\appcompat-v7-28.0.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\104b41de4d2eba2cdc0ae27ef6f22e12\\transformed\\support-compat-28.0.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

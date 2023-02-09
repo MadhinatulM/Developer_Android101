@@ -1,0 +1,32 @@
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-lifecycle-process-2.4.1-0 C:\Users\ACER\.gradle\caches\transforms-3\0e3ae32326a0e848f548d7e3e360e91a\transformed\lifecycle-process-2.4.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-annotation-experimental-1.1.0-1 C:\Users\ACER\.gradle\caches\transforms-3\124104192e46f7503fc7ab37d203243b\transformed\annotation-experimental-1.1.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-transition-1.2.0-2 C:\Users\ACER\.gradle\caches\transforms-3\1618bcb85a814119ce5d261d74a05646\transformed\transition-1.2.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-appcompat-resources-1.5.1-3 C:\Users\ACER\.gradle\caches\transforms-3\19b575cc35f2a840396319d054e34c2d\transformed\appcompat-resources-1.5.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-activity-1.5.1-4 C:\Users\ACER\.gradle\caches\transforms-3\19b8d69c92fbc0a1ab44d0e327a26670\transformed\activity-1.5.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-lifecycle-runtime-2.5.1-5 C:\Users\ACER\.gradle\caches\transforms-3\1f4ba294851a41fec90e57044e0b6faa\transformed\lifecycle-runtime-2.5.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-lifecycle-viewmodel-savedstate-2.5.1-6 C:\Users\ACER\.gradle\caches\transforms-3\23f1aad48a5f6744a8f8ec2c296d7f97\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-lifecycle-livedata-core-2.5.1-7 C:\Users\ACER\.gradle\caches\transforms-3\45d97b73aed37fef41ba67b9163f4623\transformed\lifecycle-livedata-core-2.5.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-fragment-1.3.6-8 C:\Users\ACER\.gradle\caches\transforms-3\659962f58e2cb5a7e1e2efe8f90c3724\transformed\fragment-1.3.6\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-emoji2-1.2.0-9 C:\Users\ACER\.gradle\caches\transforms-3\716a987b3907c1eb7c65459ced99182d\transformed\emoji2-1.2.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-core-1.8.0-10 C:\Users\ACER\.gradle\caches\transforms-3\7ede28d3d7dce1990549bee8236cbff7\transformed\core-1.8.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-constraintlayout-2.1.4-11 C:\Users\ACER\.gradle\caches\transforms-3\8d668b3a0fae8b1f77b3c73da8ad812c\transformed\constraintlayout-2.1.4\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-material-1.7.0-12 C:\Users\ACER\.gradle\caches\transforms-3\8eaadd03f3f69cd9bc5f299ba5a407db\transformed\material-1.7.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-emoji2-views-helper-1.2.0-13 C:\Users\ACER\.gradle\caches\transforms-3\97bf213587d31d8a14d123ef51854981\transformed\emoji2-views-helper-1.2.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-coordinatorlayout-1.1.0-14 C:\Users\ACER\.gradle\caches\transforms-3\a12d7a26086e822cc73239c7c961cb97\transformed\coordinatorlayout-1.1.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-recyclerview-1.1.0-15 C:\Users\ACER\.gradle\caches\transforms-3\a77c35b166d8caafd52e17e0cfccd807\transformed\recyclerview-1.1.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-core-ktx-1.8.0-16 C:\Users\ACER\.gradle\caches\transforms-3\b84c7f5348e08a3d89a892cb2ef0fb3f\transformed\core-ktx-1.8.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-cardview-1.0.0-17 C:\Users\ACER\.gradle\caches\transforms-3\c589876e3f9e8c411e922ea02b247a08\transformed\cardview-1.0.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-startup-runtime-1.1.1-18 C:\Users\ACER\.gradle\caches\transforms-3\e08e501973772def375dbe4261c7f537\transformed\startup-runtime-1.1.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-savedstate-1.2.0-19 C:\Users\ACER\.gradle\caches\transforms-3\e3595972154c0dc1a78ef3814c869b3f\transformed\savedstate-1.2.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-viewpager2-1.0.0-20 C:\Users\ACER\.gradle\caches\transforms-3\e7116051b4ddaf7797de804ecaa66660\transformed\viewpager2-1.0.0\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-drawerlayout-1.1.1-21 C:\Users\ACER\.gradle\caches\transforms-3\ef9b4f35d12f40157314953248d7d997\transformed\drawerlayout-1.1.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-lifecycle-viewmodel-2.5.1-22 C:\Users\ACER\.gradle\caches\transforms-3\f0e8bbdb0f500732f9d69ea49de2f6ab\transformed\lifecycle-viewmodel-2.5.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-appcompat-1.5.1-23 C:\Users\ACER\.gradle\caches\transforms-3\f7fb35e591cc5229741282c9e1909cb9\transformed\appcompat-1.5.1\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-pngs-24 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\generated\res\pngs\debug
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-resValues-25 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\generated\res\resValues\debug
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-rs-26 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\generated\res\rs\debug
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-packageDebugResources-27 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-packageDebugResources-28 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-merged_res-29 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\build\intermediates\merged_res\debug
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-debug-30 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\src\debug\res
+id.ac.poliban.mi.va.sherli.homework081_sherli.app-main-31 D:\DTS JMP A_PELATIHAN 2022\AndroidStudio\Homework081_Sherli\app\src\main\res
